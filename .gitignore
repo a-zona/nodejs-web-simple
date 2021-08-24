@@ -9,6 +9,20 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+/.idea
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ project files
+.idea
+*.iml
+out
+
+
 # Runtime data
 pids
 *.pid

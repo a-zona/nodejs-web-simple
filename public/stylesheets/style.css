@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Trebuchet MS", Tahoma, Verdana, sans-serif;
+  background-color: whitesmoke;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.underConstruction {
+  /*border: 1px solid blueviolet;*/
+  text-align: center;
+}
+
+
